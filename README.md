@@ -11,3 +11,7 @@
 - Retrieved CryptoCurrency data from Coingecko API via server side data rendering to maximize the speed of fetching data.
 
 - Designed mobile responsive UI with using NextJS and CSS Modules to provide users clear visualization of data retrieved from the API.
+
+- Deployed with Vercel
+
+You can check this application from <a href="https://crypto-tracker-sooty.vercel.app/" target="_blank">here</a>.
