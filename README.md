@@ -6,8 +6,6 @@
 
 ![alt text](https://github.com/own1t/crypto-tracker/blob/main/previews/crypto-tracker2.png)
 
-You can check the Korean Premium from Premium Checker page. <br/>
-
 - Leveraged speed of single-page application development in NextJS for fast and seamless user experience.
 
 - Retrieved CryptoCurrency data from Coingecko API via server side data rendering to maximize the speed of fetching data.
